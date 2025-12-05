@@ -5,9 +5,9 @@ Sou um desenvolvedor Python apaixonado por transformar tarefas repetitivas em so
 
 ### Minha Caixa de Ferramentas 🛠️
 * **Python 🐍**: É minha linguagem principal. Com ela, eu dou vida a scripts complexos e automações poderosas.
-* **Automação Web 🕸️**: Eu navego pela web sem um navegador, utilizando **Selenium** e **Scrapy** para extrair dados valiosos e automatizar processos em qualquer site.
-* **Chatbots 🤖**: Eu construo assistentes virtuais inteligentes que conversam, atendem e simplificam fluxos de trabalho para usuários e empresas.
-* **Integração com APIs 🔗**: Conecto diferentes plataformas e serviços, garantindo que os dados fluam de forma segura e eficiente entre os sistemas.
+* **Automação Web**: Eu navego pela web sem um navegador, utilizando **Selenium** e **Scrapy** para extrair dados valiosos e automatizar processos em qualquer site.
+* **Chatbots**: Eu construo assistentes virtuais inteligentes que conversam, atendem e simplificam fluxos de trabalho para usuários e empresas.
+* **Integração com APIs**: Conecto diferentes plataformas e serviços, garantindo que os dados fluam de forma segura e eficiente entre os sistemas.
 ---
 ### Conhecimentos
 <p> Backend:
