@@ -1,33 +1,28 @@
-### Olá, Mundo! Eu sou o Pequeno. 👋
-Sou um desenvolvedor Python apaixonado por transformar tarefas repetitivas em soluções inteligentes. Meu objetivo é construir automações robustas e sistemas eficientes que resolvam problemas reais e otimizem o tempo.
+# Olá, eu sou o Pequeno
 
----
+Desenvolvedor Python. Transformo tarefas repetitivas em automações robustas, integrações e sistemas que resolvem problemas reais e devolvem tempo às pessoas.
 
-### Minha Caixa de Ferramentas 🛠️
-* **Python 🐍**: É minha linguagem principal. Com ela, eu dou vida a scripts complexos e automações poderosas.
-* **Automação Web**: Eu navego pela web sem um navegador, utilizando **Selenium** e **Scrapy** para extrair dados valiosos e automatizar processos em qualquer site.
-* **Chatbots**: Eu construo assistentes virtuais inteligentes que conversam, atendem e simplificam fluxos de trabalho para usuários e empresas.
-* **Integração com APIs**: Conecto diferentes plataformas e serviços, garantindo que os dados fluam de forma segura e eficiente entre os sistemas.
----
-### Conhecimentos
-<p> Backend:
-  <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white" /></a>
-</p>
-<p> Frontend:
-  <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
-</p>
-<p> Tools:
-  <a href="#"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" /></a>
-</p>
+## O que eu faço
 
----
-Você pode me encontrar no [**LinkedIn**](https://www.linkedin.com/in/lucas-p-a87365108/).
+- **Automação web:** Selenium para controlar navegadores e Scrapy para extrair dados em escala.
+- **Chatbots:** assistentes virtuais que atendem, conversam e simplificam fluxos de trabalho de usuários e empresas.
+- **Integração com APIs:** conexão entre plataformas e serviços, com dados trafegando de forma segura e eficiente.
+- **Dados:** consultas e tratamento em SQL, PostgreSQL e BigQuery.
+
+## Projetos
+
+- **[Auto Rainjazz](https://github.com/LucasPequenoSterzeck/auto-rainjazz)**: jazz suave gerado em tempo real no próprio dispositivo, sobre ruído de chuva, para foco e relaxamento. Harmonia por regras, melodia com cadeias de Markov e piano por samples.
+
+## Conhecimentos
+
+**Linguagens:** Python, SQL, TypeScript
+
+**Backend e dados:** PostgreSQL, BigQuery, APIs REST, Scrapy, Selenium
+
+**Frontend:** Preact, Vite, HTML, CSS
+
+**Infraestrutura e ferramentas:** Git, GitHub Actions, Docker, Linux, Postman
+
+## Contato
+
+[LinkedIn](COLE_AQUI_O_LINK_DO_SEU_LINKEDIN)
