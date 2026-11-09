@@ -25,4 +25,4 @@ Desenvolvedor Python. Transformo tarefas repetitivas em automações robustas, i
 
 ## Contato
 
-[LinkedIn](COLE_AQUI_O_LINK_DO_SEU_LINKEDIN)
+[LinkedIn](https://www.linkedin.com/in/lucas-p-a87365108)
